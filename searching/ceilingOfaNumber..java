@@ -4,6 +4,8 @@ import java.util.*;
 
 
 class Solution {
+
+    //Ceiling of a numebr is the smallest number >=target;
     public int searchInsert(int[] nums, int target) {
     int length =nums.length;
 		int start=0;
